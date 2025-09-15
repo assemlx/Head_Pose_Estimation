@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+numpy
+opencv-python
+mediapipe
+matplotlib
+scikit-learn
+pickle
+requests
+pandas
+tqdm
